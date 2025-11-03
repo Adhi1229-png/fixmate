@@ -58,7 +58,6 @@ A comprehensive full-stack web application for industrial machine error troubles
 
 4. **Install and run backend:**
    ```bash
-   cd backend
    pip install -r requirements.txt
    python main.py
    ```
